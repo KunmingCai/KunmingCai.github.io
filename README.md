@@ -1,1 +1,7 @@
-# KunmingCai.github.io
+# 欢迎来到蔡坤明的个人网站
+
+这是我的个人主页，基于 GitHub Pages 构建。
+
+- 我的爱好
+- 我的项目
+- 联系我
