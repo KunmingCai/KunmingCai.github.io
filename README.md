@@ -6,4 +6,4 @@
 - 我的项目：[KunmingCai小区物业信息管理系统](https://ckmblogs.ipyingshe.net/)
 - 联系我：
 - https://github.com/kunmingCai/
-- https://www.cnblogs.com/kunmingcai
+- https://www.cnblogs.com/KunmingCai
